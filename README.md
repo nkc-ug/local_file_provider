@@ -31,4 +31,4 @@ You can edit these settings in `docker-compose.yml`.
 * Directory that files to provide deployed
 
 # Supplement
-It is use the image of nginx.
+It use the image of nginx.
