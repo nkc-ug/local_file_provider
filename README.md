@@ -28,7 +28,7 @@ To download the files, accress to URL `<Your ip address>:8080/<filename>`.
 # Settings
 You can edit these settings in `docker-compose.yml`.
 * Port
-* Directory that files to provide deployed
+* Directory that files to provide deployed into
 
 # Supplement
 It use the image of nginx.
