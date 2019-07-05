@@ -19,6 +19,7 @@ nginxのイメージを利用しています。
 This is a docker-compose file for to provide any files in local network.
 # How to use?
 Make a directory that is named `sync` into directory that same as `docker-compose.yml`.  
+Deploy into it your files to provide.  
 To up it, run this command on your terminal.
 ```
 $ docker-compose up -d
