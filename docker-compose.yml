@@ -1,0 +1,9 @@
+version: '3'
+services:
+  srv:
+    image: nginx
+    tty: true
+    ports:
+      - "8080:80"
+    volumes:
+      - ./sync:/usr/share/nginx/html:ro
